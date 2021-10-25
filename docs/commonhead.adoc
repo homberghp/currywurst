@@ -1,0 +1,24 @@
+= {doctitle}
+Pieter van den Hombergh
+V2.0  2021-01-10
+:version: V1.3 2021-01-09
+:toc: right
+:toclevels: 4
+:icons: font
+:docinfo: shared
+:description: This site contains the theory and exercise descriptions of PRC2 (Java Programming 2), starting in February 2021.
+:keywords: Test Driven Java SEBI Venlo
+:source-highlighter: highlightjs
+:highlightjs-theme: googlecode
+:highlightjs-linenums-mode: inline
+:linkattrs: true
+:stem: latexmath
+:experimental:
+:sectlinks:
+:sectanchors:
+:imagedir: images
+:backtick: '`'
+:command: &#8984;
+:sourcedir: ../exercises/code
+:copyblocks:
+:extra: icon="extra_challenge_small.png", caption="ExtraChallenge"

@@ -1,0 +1,4 @@
+:doctitle: Making Currywurst
+include::commonhead.adoc[]
+
+include::sausageisnotsteel.adoc[]
